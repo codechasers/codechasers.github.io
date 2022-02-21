@@ -1,0 +1,47 @@
+ *{
+     margin: 0;
+     padding: 0;
+ }
+h2{
+    display: none;
+    color: aquamarine;
+    text-align: center;
+    font-size: 2rem;
+    text-shadow: 23px;
+}
+body{
+    background-image: url("birthday.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#center_div{
+     
+    border: 2px solid black;
+    width: 42rem;
+    height: 33rem;
+    background-color: rgb(95, 120, 202);
+    border-radius: 1rem;
+    background-image:url('birthdaygif.gif'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    margin: auto;
+}
+  
+ #clickme{
+    
+     background-color:rgb(119, 117, 119)
+     ;
+     position: relative;
+     top: 28rem;
+    left: 15rem;
+     border: 2px solid rgb(0, 0, 0);
+     width: 11rem;
+     height: 2rem;
+     margin: auto;
+     color: aliceblue;
+     border-radius: 12px;
+ font-size: 1rem;
+   
+ }
+ 
